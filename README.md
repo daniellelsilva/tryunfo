@@ -20,4 +20,4 @@ A sugestão da TRybe para o projeto é uma aplicação em React com manipulaçã
 Na renderização das cartas, a aplicação deve possuir três filtros de listagem de cartas: filtro por nome, por raridade e por Super Trunfo. Os filtros nome e raridade são acumulativos. O filtro Super Trunfo funciona de forma independente.
 
 
-Projeto realizado no dia 13/11/2021 e pode ser acessado neste link: https://daniellelsilva.github.io/tryunfo/#start
+Projeto realizado no dia 13/11/2021 e pode ser acessado neste link: https://daniellelsilva.github.io/tryunfo
