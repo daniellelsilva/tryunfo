@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+PROJETO TRYUNFO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto do módulo de Front-end, nele, foi verificado se o aluno possuia as habilidades para:
 
-## Available Scripts
+- Ler o estado de um componente e usá-lo para alterar o que exibimos no browser;
+- Inicializar um componente, dando a ele um estado pré-definido;
+- Atualizar o estado de um componente;
+- Capturar eventos utilizando a sintaxe do React;
+- Criar formulários utilizando sintaxe JSX com as tags: input, textarea, select, form, checkbox;
+- Transmitir informações de componentes filhos para componentes pais via callbacks;
 
-In the project directory, you can run:
+Neste projeto foi desenvolvido um jogo no estilo Super Trunfo! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
 
-### `npm start`
+- Criar um baralho, com o tema livre;
+- Adicionar e remover uma carta do baralho;
+- Visualizar todas as cartas que foram adicionadas ao baralho;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A sugestão da TRybe para o projeto é uma aplicação em React com manipulação de estados em classes, simulando um jogo de Super Trunfo.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Na renderização das cartas, a aplicação deve possuir três filtros de listagem de cartas: filtro por nome, por raridade e por Super Trunfo. Os filtros nome e raridade são acumulativos. O filtro Super Trunfo funciona de forma independente.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Projeto realizado no dia 13/11/2021 e pode ser acessado neste link: https://daniellelsilva.github.io/tryunfo/#start
